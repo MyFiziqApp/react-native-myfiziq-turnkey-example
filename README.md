@@ -4,7 +4,7 @@
 
 MyFiziq Turnkey is intended to be a base template that can be forked and customised according to the integration planned. This saves developers the need to implement boilerplate integration code for adding MyFiziq technology to an existing app.
 
-Please refer to the MyFiziq React Native Turnkey plugin repo for more details: (https://github.com/MyFiziqApp/react-native-myfiziq-turnkey)[https://github.com/MyFiziqApp/react-native-myfiziq-turnkey]
+Please refer to the MyFiziq React Native Turnkey plugin repo for more details: [react-native-myfiziq-turnkey](https://github.com/MyFiziqApp/react-native-myfiziq-turnkey)
 
 ## Author
 
